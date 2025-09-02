@@ -49,5 +49,7 @@ while True:
     elif opcion == "4":
         print("¡Gracias por usar el sistema!")
         break
-    else:
+    else: 
         print("Opción inválida. Intente de nuevo.")
+        
+        #agregar
