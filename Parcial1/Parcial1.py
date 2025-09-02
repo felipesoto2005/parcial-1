@@ -7,9 +7,7 @@ class Viaje:
         self.tiempo = tiempo
         self.costo = costo
 
-    def mostrar(self):
-        return (f"{self.dia.capitalize()} - {self.origen} → {self.destino} | "
-                f"Ruta: {self.ruta} | Tiempo: {self.tiempo} min | Costo: ${self.costo:.2f}")
+   
 
 class RegistroViajes:
     def __init__(self):
@@ -19,26 +17,26 @@ class RegistroViajes:
         self.viajes.append(viaje)
 
     def mostrar_viajes(self):
-        print("\n📋 Lista de viajes realizados:")
+        print("\n Lista de viajes realizados:")
         for i, viaje in enumerate(self.viajes, 1):
             print(f"{i}. {viaje.mostrar()}")
 
     def resumen_semanal(self):
         total_tiempo = sum(v.tiempo for v in self.viajes)
         total_costo = sum(v.costo for v in self.viajes)
-        print("\n📊 Resumen semanal:")
-        print(f"🕒 Tiempo total invertido: {total_tiempo:.2f} minutos")
-        print(f"💵 Gasto total en transporte: ${total_costo:.2f}")
+        print("\n Resumen semanal:")
+        print(f" Tiempo total invertido: {total_tiempo:.2f} minutos")
+        print(f" Gasto total en transporte: ${total_costo:.2f}")
 
-# --- Ejecución del sistema ---
+
 registro = RegistroViajes()
 
 def registrar_viaje():
-    dia = input("Día del viaje (ej. lunes): ")
+    dia = input("Día del viaje: ")
     origen = input("Origen: ")
     destino = input("Destino: ")
     ruta = input("Ruta (urbana/rural): ")
-    tiempo = float(input("Tiempo del viaje en minutos: "))
+    tiempo = float(input("ingrese el tiempo del viaje en minutos: "))
     costo = float(input("Costo del viaje en USD: "))
     viaje = Viaje(dia, origen, destino, ruta, tiempo, costo)
     registro.agregar_viaje(viaje)
