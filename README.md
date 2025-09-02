@@ -4,6 +4,9 @@
 Carlos Felipe Soto Mayorga. SMTR079724 
 Diego Maximiliano Avilés Gómez.SMTR042724
 
+
+EL CODIGO SE ENCUENTRA EN LA RAMA MAIN
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⡇⣶⣶⣿⣿⣿⣿⣷⣶⣶⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡇⠻⠛⠋⠉⠉⠉⠛⠿⠿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀
