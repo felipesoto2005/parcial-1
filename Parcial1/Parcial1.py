@@ -50,4 +50,4 @@ while True:
         print("¡Gracias por usar el sistema!")
         break
     else:
-        print("Opción inválida. Intente de nuevo."
+        print("Opción inválida. Intente de nuevo.")
