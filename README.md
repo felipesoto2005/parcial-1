@@ -1,3 +1,5 @@
+```
+    
     integrantes del equipo
 Carlos Felipe Soto Mayorga. SMTR079724 
 Diego Maximiliano Avilés Gómez.SMTR042724
@@ -20,7 +22,7 @@ Diego Maximiliano Avilés Gómez.SMTR042724
 ⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠘⠁⠀⠀⠀⠀⠀
 ⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀
 
-
+```
 
 
 
